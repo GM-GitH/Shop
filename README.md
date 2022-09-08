@@ -1,6 +1,6 @@
 # Módulo 1:
 
-### [Click aquí para ver el ejemplo](https://gm-gith.github.io/001_Modulo/)
+### [Click aquí para ver el ejemplo](https://gm-gith.github.io/Shop/)
 
 ### Título del proyecto: 
 *Como hemos puesto en la primera línea* 
